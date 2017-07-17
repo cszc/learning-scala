@@ -1,12 +1,17 @@
-# CS Concepts in Scala
+# Programming Concepts in Scala
+**July 2017**
+
+This collection of notes serve as an outline of concepts needed to learn Scala. Specifically, these are the topics I found to be confusing with only an intermediate knowledge of Python. Hopefully, they will be useful to other people with a limited knowledge of programming concepts.
+
 -------
-## Nothings
--https://oldfashionedsoftware.com/2008/08/20/a-post-about-nothing/
 
 ## Anonymous Functions
+*TBD*
 
 ## Data Structures
+
 ### Collections
+*TBD*
 - List
     - http://alvinalexander.com/scala/how-create-scala-list-range-fill-tabulate-constructors
 - Vector
@@ -14,13 +19,19 @@
 - IndexSeq
 
 ## Functional programming
+*TBD*
+
 ### *Fun*-ctional Methods
-- Folding
+- Fold
     - e.g. [Find the number of elements of a list](http://blog.thedigitalcatonline.com/blog/2015/04/07/99-scala-problems-04-length/#.WWk4VBPyvOR)
+- Reduce
+- Scan
 
 ## Implicit Returns
-- [Don't Use Return in Scala
-](https://tpolecat.github.io/2014/05/09/return.html)
+- [Don't Use Return in Scala](https://tpolecat.github.io/2014/05/09/return.html)
+
+## Idiomatic Scala
+    - tail, head
 
 ## Infix, Prefix, & Postfix Operators in Scala
 
@@ -35,13 +46,16 @@ More Reading
 - http://www.cs.man.ac.uk/~pjj/cs212/fix.html
 - http://www.codecommit.com/blog/scala/quick-explanation-of-scalas-syntax
 
+## Nothing, Nil, Null, null, None
+- https://oldfashionedsoftware.com/2008/08/20/a-post-about-nothing/
+
 ## Pattern Matching & Functional Composition
 - Case Statements
 - Currying
 - Partially Applied Functions
 - Partial Functions
 - More Reading
-    - [Stack Overflow: Currying vs Partially Applied Functions])https://stackoverflow.com/questions/14309501/scala-currying-vs-partially-applied-functions)
+    - [Stack Overflow: Currying vs Partially Applied Functions](https://stackoverflow.com/questions/14309501/scala-currying-vs-partially-applied-functions)
     - [Stack Overflow: Partial Functions](https://stackoverflow.com/questions/8650549/using-partial-functions-in-scala-how-does-it-work/8650639#8650639)
 
 ## Placeholder Syntax
